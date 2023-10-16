@@ -1,4 +1,4 @@
-<img src="https://www.topsinfosolutions.com/wp-content/uploads/2020/07/mern-stack.png" width=100%><br>
+<img src="https://www.topsinfosolutions.com/wp-content/uploads/2020/07/mern-stack.png" width="100%"><br>
 
 
 <h1 align="center" style="color: black;">Hi 👋, I'm Sourav Yadav</h1>
